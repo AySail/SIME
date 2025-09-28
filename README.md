@@ -1,3 +1,6 @@
+![SIME Logo](docs/logo.svg)
+
+
 
 # SIME (Style Interactive Markdown Extension)
 
